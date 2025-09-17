@@ -98,7 +98,7 @@ git add .
 2. Készítsd el a committet:
 
 ```powershell
-git commit -m "20250916-dp1"
+git commit -m "20250917-dp1"
 ```
 
 3. Küldd fel a központi tárolóba:
@@ -118,5 +118,6 @@ Stop-Transcript
 > [!IMPORTANT]
 > Add meg ki még egyszer a feltőltést, hogy log2.txt is bekerüljön!
 > Ellenőrizd le, hogy minden file és log1 és log2 file is feltöltésre került!
+
 
 
